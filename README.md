@@ -14,7 +14,7 @@
  Some of the visualizations are inspired by those created using the [Voyant-Tools](https://voyant-tools.org/), and given that the first part of the code provides .txt documents, I highly recommend inputing them into the website to gather further information on the content of the WARC files.
 
  ### Image Analysis
- _UNDER CONSTRUCTION_
+  This notebook exemplifies how to extract images from WARC files, both to save them locally and to simply work with them in our Jupyter Notebook. Additionally, it also shows different methods of image analysis available to the user: on the one hand, it makes use of different neural networks to identify elements within the image; on the other hand, it breaks down the images into simpler segments and into their different color values for the user to evaluate. 
 
  ### Web Network Analysis Using Gephi
  _UNDER CONSTRUCTION_
