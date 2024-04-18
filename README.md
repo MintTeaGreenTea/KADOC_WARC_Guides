@@ -18,6 +18,8 @@
 
  ### Web Network Analysis Using Gephi
 _Note that there are several files in the folder for this guide; you'll need to open the .ipynb to access all the code to use on your own WARCs!_ 
+  
   This last notebook illustrates how to extract websites from WARC files to create a website network that showcases what each main website most often links to. It also checks what extensions each domain links to so as to understand their positioning in the global sphere. In addition to creating some graphs within the notebook, the code also creates CSV files that can be imported into Gephi to generate interactive, cleaner visualizations. 
+  
   This portion of the guides requires the highest technical competency if you wish to use Gephi, although you can follow [this guide](https://medium.com/data-analytics-at-nesta/how-to-create-network-visualisations-with-gephi-a-step-by-step-tutorial-e0743c49ec72) from Stage 2 onwards to create your graphs after setting up the nodes.csv and edges.csv file using the code in the notebook. Using Gephi is optional, but you will lose neatness and interactivity if you decide to skip it.
 
